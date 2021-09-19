@@ -1,7 +1,8 @@
 # .dotfiles
 
-Xmonad
-Redshift
-polybar
+Stowed away ->
+	Xmonad -> xmonad xmonad-contrib xmonad-log
+	Redshift -> redshift
+	polybar -> polybar AUR
 
-xprofile -> picom nitrogen
+	xprofile -> picom nitrogen
