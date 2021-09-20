@@ -483,7 +483,7 @@ main = do
   xmonad 
     $ docks -- !not using default.
     $ withUrgencyHook NoUrgencyHook
-   -- $ ewmh --  , will do futher testing to see if used/needed. 
+    $ ewmh --  , will do futher testing to see if used/needed. 
     -- $ addDescrKeys ((myModMask, xK_F1), xMessage) myAdditionalKeys
     -- $ addDescrKeys ((myModMask, xK_F1), showKeybindings) myAdditionalKeys
     $ myConfig { logHook = dynamicLogWithPP (myLogHook dbus) }
