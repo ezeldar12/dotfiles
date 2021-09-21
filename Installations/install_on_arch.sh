@@ -13,6 +13,9 @@ FILE="iDoNotExist"
 echo "Doing a system update... Stuff may break if not the lastest version..."
 sudo pacman --noconfirm -Syu  #--noconfirm will bypass "are you sure?"
 
+# To be able to makepkg of AUR
+sudo pacman --noconfirm --needed base-devel
+
 # AUR installation
 echo "AUR installation, $HELPER is being installed"
 git clone https://aur.archlinux.org/aura-bin.git
@@ -32,7 +35,7 @@ sudo pacman -U --noconfirm --needed aura-bin-3.2.6-1-x86_64.pkg.tar.zst
 sleep 2 && echo "Starting installation..." && sleep 2
 
 # install base-devel (building, compiling, linking)
-sudo aura -S --noconfirm --needed base-devel wget git openssh
+sudo aura -S --noconfirm --needed wget git openssh
 
 # choose video driver
 
@@ -86,18 +89,16 @@ stow -vt ~ xmonad
 stow -vt ~ redshift
 stow -vt ~ polybar
 stow -vt ~ xprofile
-
-#echo "Checking auto-cpufreq"
-#sudo auto-cpufreq --live
-#sleep 10
+stow -vt ~ picom
 
 echo "Configurations are in place"
 echo "check PRIME render offload; PCI-Express Runtime D3 (RTD3) Power Management; Prime synchronization"
 xmonad --recompile
-echo "xmonad restarting... in 3 secondes" && sleep 3 
-xmonad --restart
-echo "Rebooting in 10... " && sleep 10
-reboot
+
+echo "when login in next time : home+shift+q to restart xmonad. "  && sleep 5
+#echo "xmonad restarting... in 3 secondes" && sleep 3 
+
+echo "Rebooting needed... " && sleep 10
 
 
 

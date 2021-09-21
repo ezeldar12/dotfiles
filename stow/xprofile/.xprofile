@@ -5,6 +5,6 @@ setxkbmap us &
 nitrogen --restore &
 
 # Compositor
-picom -f &
+picom -f --experimental-backends &
 
 
