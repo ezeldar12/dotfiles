@@ -67,7 +67,7 @@ sudo aura -S --noconfirm --needed ranger htop vlc alacritty tree redshift stow n
 
 echo 'Installing AUR packages now...' && sleep 1
 #Installation of application by AURA
-sudo $HELPER -A  --noconfirm --needed volctl auto-cpufreq google-chrome xmind-2020 onedrive-abraunegg polybar xmonad-log dmenu-extended-git
+sudo $HELPER -A  --noconfirm --needed volctl auto-cpufreq google-chrome xmind-2020 onedrive-abraunegg polybar xmonad-log dmenu-extended-git lux
 
 sudo systemctl enable lightdm
 
