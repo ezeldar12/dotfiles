@@ -436,7 +436,7 @@ myStartupHook = do
     spawn "$HOME/.config/polybar/themes/default/launch.sh"
     spawn "dunst"
     spawn "nm-applet"
-    spawn "cbatticon"
+    spawn "cbatticon -i symbolic"
     spawn "redshift"
     spawn "volctl"
 
