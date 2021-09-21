@@ -53,7 +53,7 @@ case $vid in
 esac
 
 #install xorg and related
-sudo aura -S --noconfirm --needed xorg intel-ucode lightdm lightdm-gtk-greeter xmonad xmonad-contrib picom $DRI
+sudo aura -S --noconfirm --needed xorg intel-ucode lightdm lightdm-gtk-greeter xmonad xmonad-contrib $DRI
 
 #Install network packages ### 
 sudo aura -S --noconfirm --needed avahi network-manager-applet openssh iw
@@ -70,7 +70,7 @@ sudo aura -S --noconfirm --needed ranger htop vlc alacritty tree redshift stow n
 
 echo 'Installing AUR packages now...' && sleep 1
 #Installation of application by AURA
-sudo $HELPER -A  --noconfirm --needed volctl auto-cpufreq google-chrome xmind-2020 onedrive-abraunegg polybar xmonad-log dmenu-extended-git lux
+sudo $HELPER -A  --noconfirm --needed volctl auto-cpufreq google-chrome xmind-2020 onedrive-abraunegg polybar xmonad-log picom-ibhagwan-git dmenu-extended-git lux
 
 sudo systemctl enable lightdm
 
