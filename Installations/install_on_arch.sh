@@ -90,6 +90,8 @@ stow -vt ~ redshift
 stow -vt ~ polybar
 stow -vt ~ xprofile
 stow -vt ~ picom
+stow -vt ~ alacritty
+
 
 echo "Configurations are in place"
 echo "check PRIME render offload; PCI-Express Runtime D3 (RTD3) Power Management; Prime synchronization"
