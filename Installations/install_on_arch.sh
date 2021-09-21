@@ -63,11 +63,11 @@ sudo aura -S --noconfirm --needed acpi
 sudo aura -S --noconfirm --needed alsa-utils pulseaudio pulseaudio-alsa pulseaudio-bluetooth bluez-utils pavucontrol
 
 # Install applications from archlinux repo. 
-sudo aura -S --noconfirm --needed ranger htop vlc alacritty tree redshift stow neofetch zathura discord nitrogen
+sudo aura -S --noconfirm --needed ranger htop vlc alacritty tree redshift stow neofetch zathura discord nitrogen dunst
 
 echo 'Installing AUR packages now...' && sleep 1
 #Installation of application by AURA
-sudo $HELPER -A  --noconfirm --needed volctl auto-cpufreq google-chrome xmind-2020 onedrive-abraunegg polybar xmonad-log dmenu-extended-git
+sudo $HELPER -A  --noconfirm --needed volctl auto-cpufreq google-chrome xmind-2020 onedrive-abraunegg polybar xmonad-log dmenu-extended-git batterymon-clone
 
 sudo systemctl enable lightdm
 
