@@ -1,7 +1,7 @@
 #!/bin/env bash
 
 set -e  #stop stops the excecution of script if command or pipeline has an error.
-
+cd ~/
 echo "Welcome Acerola!" && sleep 2
 
 
@@ -17,14 +17,16 @@ sudo pacman --noconfirm -Syu  #--noconfirm will bypass "are you sure?"
 echo "AUR installation, $HELPER is being installed"
 git clone https://aur.archlinux.org/aura-bin.git
 cd aura-bin && makepkg
+sudo pacman -U --noconfirm --needed aura-bin-3.2.6-1-x86_64.pkg.tar.zst
 
-while [ ! -f $FILE ]
-do
-	ls
-	read -p "file name similar to > aura-bin[...].pkg.tar.zst: " FILE
-done
-echo "this file exist"
-sudo pacman -U "$FILE"
+##### When this fails -> uncomment below and comment firt line before
+#while [ ! -f $FILE ]
+#do
+#	ls
+#	read -p "file name similar to > aura-bin[...].pkg.tar.zst: " FILE
+#done
+#echo "this file exist"
+#sudo pacman -U "$FILE"
 
 
 sleep 2 && echo "Starting installation..." && sleep 2
@@ -35,7 +37,7 @@ sudo aura -S --noconfirm --needed base-devel wget git openssh
 # choose video driver
 
 echo "1) xf86-video-intel 2) nvdia 3) [nvidia - intel]-> prime"
-read -r -p "Choose your video card driver (Default 1) Warn: choose integrated gpu driver, discret gpu driver for later." vid
+read -r -p "Choose your video card driver (Default 1) Warn: choose integrated gpu driver, discret gpu driver for later: " vid
 case $vid in
 	[1])
 		DRI='xf86-video-intel';;
@@ -61,19 +63,11 @@ sudo aura -S --noconfirm --needed acpi
 sudo aura -S --noconfirm --needed alsa-utils pulseaudio pulseaudio-alsa pulseaudio-bluetooth bluez-utils pavucontrol
 
 # Install applications from archlinux repo. 
-sudo aura -S --noconfirm --needed ranger htop vlc alacritty tree redshift stow neofetch zathura discord nitrogem
+sudo aura -S --noconfirm --needed ranger htop vlc alacritty tree redshift stow neofetch zathura discord nitrogen
 
+echo 'Installing AUR packages now...' && sleep 1
 #Installation of application by AURA
-sudo $HELPER -A  --noconfirm --needed 
-		volctl\
-		auto-cpufreq\
-		google-chrome\
-		timeshift\
-		xmind-2020\
-		onedrive-abraunegg\
-		polybar\
-		xmonad-log\
-		dmenu-extended-git
+sudo $HELPER -A  --noconfirm --needed volctl auto-cpufreq google-chrome xmind-2020 onedrive-abraunegg polybar xmonad-log dmenu-extended-git
 
 sudo systemctl enable lightdm
 
@@ -93,9 +87,9 @@ stow -vt ~ redshift
 stow -vt ~ polybar
 stow -vt ~ xprofile
 
-echo "Checking auto-cpufreq"
-sudo auto-cpufreq --live
-sleep 10
+#echo "Checking auto-cpufreq"
+#sudo auto-cpufreq --live
+#sleep 10
 
 echo "Configurations are in place"
 echo "check PRIME render offload; PCI-Express Runtime D3 (RTD3) Power Management; Prime synchronization"

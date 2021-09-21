@@ -34,4 +34,5 @@ hostnamectl && sleep 4
 echo "Launching 'install_on_arch' script now..."
 su acerola
 
-./~/.dotfiles/Installation/install_on_arch.sh
+cd ~/.dotfiles/Installations
+./install_on_arch.sh
