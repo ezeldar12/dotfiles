@@ -31,5 +31,7 @@ echo '127.0.0.1 localhost' | tee -a /etc/hosts
 echo '127.0.1.1 blade15' | tee -a /etc/hosts
 hostnamectl && sleep 4
 
-echo "run the 'install_on_arch' script now..."
-echo "quit su by <su 'name'>"
+echo "Launching 'install_on_arch' script now..."
+su acerola
+
+./~/.dotfiles/Installation/install_on_arch.sh

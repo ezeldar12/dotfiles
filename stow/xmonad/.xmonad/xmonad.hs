@@ -438,6 +438,7 @@ myStartupHook = do
     spawn "nm-applet"
     spawn "cbatticon"
     spawn "redshift"
+    spawn "volctl"
 
 ------------------------------------------------------------------------
 --                        {{{ xmonad config }}}
