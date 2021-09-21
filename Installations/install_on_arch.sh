@@ -66,7 +66,7 @@ sudo aura -S --noconfirm --needed acpi
 sudo aura -S --noconfirm --needed alsa-utils pulseaudio pulseaudio-alsa pulseaudio-bluetooth bluez-utils pavucontrol
 
 # Install applications from archlinux repo. 
-sudo aura -S --noconfirm --needed ranger htop vlc alacritty tree redshift stow neofetch zathura discord nitrogen dunst cbatticon
+sudo aura -S --noconfirm --needed ranger htop vlc alacritty tree redshift stow neofetch zathura zathura-pdf-poppler discord nitrogen dunst cbatticon
 
 echo 'Installing AUR packages now...' && sleep 1
 #Installation of application by AURA
@@ -91,7 +91,7 @@ stow -vt ~ polybar
 stow -vt ~ xprofile
 stow -vt ~ picom
 stow -vt ~ alacritty
-
+stow -vt ~ ranger
 
 echo "Configurations are in place"
 echo "check PRIME render offload; PCI-Express Runtime D3 (RTD3) Power Management; Prime synchronization"
