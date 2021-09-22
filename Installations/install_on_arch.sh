@@ -66,7 +66,7 @@ sudo aura -S --noconfirm --needed acpi
 sudo aura -S --noconfirm --needed alsa-utils pulseaudio pulseaudio-alsa pulseaudio-bluetooth bluez-utils pavucontrol
 
 # Install applications from archlinux repo. 
-sudo aura -S --noconfirm --needed ranger htop vlc alacritty tree redshift stow neofetch zathura zathura-pdf-poppler discord nitrogen dunst cbatticon
+sudo aura -S --noconfirm --needed ranger libreoffice-still htop vlc alacritty tree redshift stow neofetch zathura zathura-pdf-poppler discord nitrogen dunst cbatticon python-ueberzug
 
 echo 'Installing AUR packages now...' && sleep 1
 #Installation of application by AURA
