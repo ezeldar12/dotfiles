@@ -13,7 +13,7 @@ import System.Exit
 import XMonad.Config.Desktop -- default desktopConfig
 import System.IO (hClose)
 import Graphics.X11.ExtraTypes.XF86
-import Workspaces
+
 -- util import
 import XMonad.Util.Run
 import XMonad.Util.Dzen
@@ -451,7 +451,7 @@ myConfig = def
     , clickJustFocuses   = False
     , borderWidth        = 0
     , modMask            = mod4Mask
-    , Workspaces--         = ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
+    , workspaces         = ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
     , normalBorderColor  = "#555555"
     , focusedBorderColor = "#000000"
     

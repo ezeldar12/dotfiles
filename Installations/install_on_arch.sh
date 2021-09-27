@@ -70,7 +70,7 @@ sudo aura -S --noconfirm --needed ranger libreoffice-still htop vlc alacritty tr
 
 echo 'Installing AUR packages now...' && sleep 1
 #Installation of application by AURA
-sudo $HELPER -A  --noconfirm --needed volctl auto-cpufreq google-chrome xmind-2020 onedrive-abraunegg polybar xmonad-log picom-ibhagwan-git dmenu-extended-git lux
+sudo $HELPER -A  --noconfirm --needed volctl lightdm-webkit-theme-aether auto-cpufreq google-chrome xmind-2020 onedrive-abraunegg polybar xmonad-log picom-ibhagwan-git dmenu-extended-git lux
 
 sudo systemctl enable lightdm
 

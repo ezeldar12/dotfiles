@@ -13,6 +13,7 @@ import System.Exit
 import XMonad.Config.Desktop -- default desktopConfig
 import System.IO (hClose)
 import Graphics.X11.ExtraTypes.XF86
+ 
 
 -- util import
 import XMonad.Util.Run
@@ -51,8 +52,6 @@ import XMonad.Actions.NoBorders
 import XMonad.Actions.DynamicProjects
 
 -- qualified imports
---import qualified DBus as D
---import qualified DBus.Client as D
 import qualified XMonad.Layout.BoringWindows as B
 import qualified Codec.Binary.UTF8.String as UTF8
 import qualified XMonad.StackSet as W
@@ -397,33 +396,6 @@ myEventHook    = docksEventHook
 -- See the 'XMonad.Hooks.DynamicLog' extension for examples.
 --
 myLogHook = return()
---myLogHook :: D.Client -> PP
---myLogHook dbus = def
---    { ppOutput = dbusOutput dbus
---    , ppCurrent = wrap ("%{F" ++ blue2 ++ "} ") " %{F-}"
---    , ppVisible = wrap ("%{F" ++ blue ++ "} ") " %{F-}"
---    , ppUrgent = wrap ("%{F" ++ red ++ "} ") " %{F-}"
---    , ppHidden = wrap " " " "
---    , ppWsSep = ""
---    , ppSep = " | "
---    , ppTitle = myAddSpaces 25
---    }
--- Emit a DBus signal on log updates
---dbusOutput :: D.Client -> String -> IO ()
---dbusOutput dbus str = do
---    let signal = (D.signal objectPath interfaceName memberName) {
---            D.signalBody = [D.toVariant $ UTF8.decodeString str]
---        }
---    D.emit dbus signal
---  where
---    objectPath = D.objectPath_ "/org/xmonad/Log"
---    interfaceName = D.interfaceName_ "org.xmonad.Log"
---    memberName = D.memberName_ "Update"
---
---myAddSpaces :: Int -> String -> String
---myAddSpaces len str = sstr ++ replicate (len - length sstr) ' '
--- where
---  sstr = shorten len str
 ------------------------------------------------------------------------
 --                         {{{Startup hook}}}
 ------------------------------------------------------------------------
@@ -451,7 +423,7 @@ myConfig = def
     , clickJustFocuses   = False
     , borderWidth        = 0
     , modMask            = mod4Mask
-    , workspaces         = ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
+  --  , workspaces         = ["MAIN", "2", "3", "4", "5", "6", "7", "8", "9"]
     , normalBorderColor  = "#555555"
     , focusedBorderColor = "#000000"
     
@@ -478,10 +450,6 @@ myConfig = def
 -------------------------------------------------------------------------                                
 main :: IO ()
 main = do
---  dbus <- D.connectSession
---  D.requestName dbus (D.busName_ "org.xmonad.Log")
---    [D.nameAllowReplacement, D.nameReplaceExisting, D.nameDoNotQueue]
-
   xmonad 
     $ docks -- !not using default.
     $ withUrgencyHook NoUrgencyHook
