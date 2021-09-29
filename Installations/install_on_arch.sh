@@ -92,7 +92,8 @@ stow -vt ~ xprofile
 stow -vt ~ picom
 stow -vt ~ alacritty
 stow -vt ~ ranger
-
+stow -vt ~ bin
+stow -vt ~ eduroam_generated
 echo "Configurations are in place"
 echo "check PRIME render offload; PCI-Express Runtime D3 (RTD3) Power Management; Prime synchronization"
 xmonad --recompile
