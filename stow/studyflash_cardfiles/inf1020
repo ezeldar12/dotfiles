@@ -1,0 +1,505 @@
+{
+  "cards": [
+    {
+      "text": "langage machine ou?",
+      "solution": "code binaire",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "langage machine : Instructions representees par des?",
+      "solution": "patrons de bits",
+      "timesCorrect": 0,
+      "timesIncorrect": 1,
+      "timesPlayed": 1,
+      "streak": 0
+    },
+    {
+      "text": "langage machine : comprehensible/executable par le?",
+      "solution": "processeur",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "langage machine : dependant de la?",
+      "solution": "machine",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "langage machine : difficile (oui/non)?",
+      "solution": "oui",
+      "timesCorrect": 2,
+      "timesIncorrect": 0,
+      "timesPlayed": 2,
+      "streak": 2
+    },
+    {
+      "text": "langage d'assemblage ou?",
+      "solution": "assembleur",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "langage d'assemblage : Quel est le niveau de ce langage?",
+      "solution": "bas",
+      "timesCorrect": 0,
+      "timesIncorrect": 1,
+      "timesPlayed": 1,
+      "streak": 0
+    },
+    {
+      "text": "langage d'assemblage : Instructions?",
+      "solution": "symboles mnemoniques",
+      "timesCorrect": 0,
+      "timesIncorrect": 1,
+      "timesPlayed": 1,
+      "streak": 0
+    },
+    {
+      "text": "langage d'assemblage : difficle (relativement/non)?",
+      "solution": "relativement",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "langage d'assemblage : dependant de la?",
+      "solution": "machine",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "langage haut niveau ou? ",
+      "solution": "evolue",
+      "timesCorrect": 0,
+      "timesIncorrect": 1,
+      "timesPlayed": 1,
+      "streak": 0
+    },
+    {
+      "text": "langage haut niveau : Instructions?",
+      "solution": "expressions du langage",
+      "timesCorrect": 0,
+      "timesIncorrect": 1,
+      "timesPlayed": 1,
+      "streak": 0
+    },
+    {
+      "text": "langage haut niveau : difficile (oui/non)?",
+      "solution": "non",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "langage haut niveau : Programmes sont plus longs (v/f)?",
+      "solution": "f",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "logiciel de traduction d'un langage a un autre?",
+      "solution": "compilateur",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Java est un langage 1)interprete 2) semi-interprete",
+      "solution": "2",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "fichier code source -> compilateur -> fichier executable : La sequence est elle correcte pour un langage compile (ex.:C) (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "fichier code source en langage Java (.java) -> compilateur Java -> fichier Code octet Java (Java bytecode) (.class) -> Machine virtuelle Java (interpretation/execution par) -> Code machine (Execute par le processeur : La sequence est-elle correcte (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Cycle de vie du logiciel : (2) realisation; (1) verification; (3) maintenance; (4) specification; (5) conception; mettre les chiffres  bon ordre",
+      "solution": "45213",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Cycle de vue du logiciel : liste des exigences fonctionnelles -> (s/c/r/v/m)?",
+      "solution": "s",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Cycle de vie du logiciel : Solution conceptuelle -> (s/c/r/v/m)?",
+      "solution": "c",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Cycle de vie du logiciel : Solution logicielle -> (s/c/r/v/m)?",
+      "solution": "r",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Cycle de vie du logiciel : Tests -> (s/c/r/v/m)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Cycle de vie du logiciel : Corrections, ameliorations -> (s/c/r/v/m)?",
+      "solution": "m",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Utilite du cyle de vie logiciel : maitriser les delais et les couts; obtenir un logiciel de qualite (conforme aux exigences) (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Une variable est un espace memoire nomme pouvant contenir une valeur (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Dans un programme, on peut referer un espace memoire (et donc la valeur stockee) par son nom (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Une meme variable ne change jamais de valeur durant l'execution d'un programme (v/f)?",
+      "solution": "f",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Une condition doit elle etre booleenne en generale (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "On execute seulement le bloc d'instruction qui correspond a la PREMIERE condition vraie trouvee (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Si aucune condition vraie n'est trouvee (if...) rien n'est executee (v/f)?",
+      "solution": "f",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Une constante est une variable qu'on peut fois au cours de l'execution d'un programme (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Est-ce un bonne pratique de transformer toutes les valeurs litterales contenues dans un programme en constante (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Les constantes ne facilites pas la maintenance d'un programme (v/f)?",
+      "solution": "f",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Il y a t-il un interet a valider les entrees de l'utilisateur (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Les constantes sont en majuscules et separe par \"_\" (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Une methode est en miniscule outre la premiere lettre de chaque mot (v/f)?",
+      "solution": "f",
+      "timesCorrect": 0,
+      "timesIncorrect": 1,
+      "timesPlayed": 1,
+      "streak": 0
+    },
+    {
+      "text": "Une class est en minuscule outre le premiere lettre de chaque mot (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "byte, short, int, long ne sont pas primitif (v/f)?",
+      "solution": "f",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "float, double, char sont primitif (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Quel est le caractere d'echappement?",
+      "solution": "\\",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "boolean est primitif (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "constante keywork (entre le keyword)?",
+      "solution": "final",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "c='A' //c => const. litt., 'A'=> const. symb. (v/f)?",
+      "solution": "f",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Par defaut une constante litteral entiere est de type float (v/f)?",
+      "solution": "f",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "une constante entirer est de type long si la valeur est trop grande pour un int (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Si la capacite litterale entiere depasse la capacite d'un l \"long\", il n'y aura pas d'erreur de compilation (v/f)?",
+      "solution": "f",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Par defaut, une constante litterale reelle est de type double, et on ne peut pas la transformer en float (v/f)?",
+      "solution": "f",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Une division par zero cause toujours l'arret du programme (v/f)?",
+      "solution": "f",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Quelle valeur prend la division reel par zero (entre la valeur en minuscule)?",
+      "solution": "nan",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Dans Java, il y a un princpe de conversion implicite qui est temporaire (pendant le calcul uniquement) (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Conversion implicite (promotion numerique): byte, short et char -> int (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Conversion implicite (ajustement de type): int -> long -> float -> double (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Les chaines de caracteres sont de type primitif (v/f)?",
+      "solution": "f",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "La methode main est le point d'entree d'une application Java (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "On termine une instructions simple par \";\" (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Un bloc d'instructions s'ecrit avec 1) {}, 2) [], 3) (); (rentre le numero correspondant.",
+      "solution": "1",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Dans un bloc d'instructions, les variables sont visibles et existent seulement a l'interieur du bloc {...}. (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "Switch est une structure de controle (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "If n'est pas une structure de controle (v/f)?",
+      "solution": "f",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "do {...} while (condition); Est-ce la bonne ecriture (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    },
+    {
+      "text": "boucle for : for (init;condition; modifications) {...}  // Est-ce la bonne ecriture (v/f)?",
+      "solution": "v",
+      "timesCorrect": 1,
+      "timesIncorrect": 0,
+      "timesPlayed": 1,
+      "streak": 1
+    }
+  ],
+  "config": {
+    "standartTextEditor": "vim",
+    "shuffle": true,
+    "correcttest": "# It is defined here when a card counts as mastered and will \n# not be asked again. \n# (reset statistics to study cards again with: 'studyflash reset FILENAME')\n\n# Syntax: A python boolean is defined\n# You can use 'and' and 'or' to combine statements (see example 2)\n\n# Parameters you can use:\n# card.timesCorrect: How many times your answer was correct\n# card.timesIncorrect: How many times your answer was incorrect\n# card.timesPlayed: How many times you answered the question\n# card.streak: Your current streak on how many times you're answer was correct.\n\n# Example 1: \n# card.streak > 2\n# Explanation: Card needs to be guessed correctly more than 3 times in a row:\n# for it to not appear anymore and be marked as mastered\n\n# Example 2 ():\n# card.timesCorrect > card.timesIncorrect and card.timesCorrect > 2\n# Explanation: You need to have guessed the card correctly more times than you guessed it incorrectly\n# and the card has to be answered correctly more than 2 times for it to not appear again.\n\n# Example 3: \n# False\n# Explanation: Never sort a card out. Every card will be asked everytime \n# even if you answered the question correctly 100x times. \n\n# Current configuration: You need to have a streak of more or equal to 2\n# and need to have answered the question correctly at least 3 times:\ncard.timesCorrect > 5 and card.streak >= 5\n"
+  }
+}

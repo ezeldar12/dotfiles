@@ -1,0 +1,8 @@
+{
+  "cards": [],
+  "config": {
+    "standartTextEditor": "vim",
+    "shuffle": true,
+    "correcttest": "# It is defined here when a card counts as mastered and will \n# not be asked again. \n# (reset statistics to study cards again with: 'studyflash reset FILENAME')\n\n# Syntax: A python boolean is defined\n# You can use 'and' and 'or' to combine statements (see example 2)\n\n# Parameters you can use:\n# card.timesCorrect: How many times your answer was correct\n# card.timesIncorrect: How many times your answer was incorrect\n# card.timesPlayed: How many times you answered the question\n# card.streak: Your current streak on how many times you're answer was correct.\n\n# Example 1: \n# card.streak > 2\n# Explanation: Card needs to be guessed correctly more than 3 times in a row:\n# for it to not appear anymore and be marked as mastered\n\n# Example 2 ():\n# card.timesCorrect > card.timesIncorrect and card.timesCorrect > 2\n# Explanation: You need to have guessed the card correctly more times than you guessed it incorrectly\n# and the card has to be answered correctly more than 2 times for it to not appear again.\n\n# Example 3: \n# False\n# Explanation: Never sort a card out. Every card will be asked everytime \n# even if you answered the question correctly 100x times. \n\n# Current configuration: You need to have a streak of more or equal to 2\n# and need to have answered the question correctly at least 3 times:\ncard.timesCorrect > 2 and card.streak >= 2"
+  }
+}

@@ -66,11 +66,11 @@ sudo aura -S --noconfirm --needed acpi
 sudo aura -S --noconfirm --needed alsa-utils pulseaudio pulseaudio-alsa pulseaudio-bluetooth bluez-utils pavucontrol
 
 # Install applications from archlinux repo. 
-sudo aura -S --noconfirm --needed ranger libreoffice-still htop vlc alacritty tree redshift stow neofetch zathura zathura-pdf-poppler discord nitrogen dunst cbatticon python-ueberzug
+sudo aura -S --noconfirm --needed ranger task libreoffice-still htop vlc alacritty tree redshift stow neofetch zathura zathura-pdf-poppler discord nitrogen dunst cbatticon python-ueberzug
 
 echo 'Installing AUR packages now...' && sleep 1
 #Installation of application by AURA
-sudo $HELPER -A  --noconfirm --needed volctl lightdm-webkit-theme-aether auto-cpufreq google-chrome xmind-2020 onedrive-abraunegg polybar xmonad-log picom-ibhagwan-git dmenu-extended-git lux
+sudo $HELPER -A  --noconfirm --needed volctl clearine-git lightdm-webkit-theme-aether auto-cpufreq google-chrome xmind-2020 onedrive-abraunegg polybar xmonad-log picom-ibhagwan-git dmenu-extended-git lux
 
 sudo systemctl enable lightdm
 
@@ -94,6 +94,8 @@ stow -vt ~ alacritty
 stow -vt ~ ranger
 stow -vt ~ bin
 stow -vt ~ eduroam_generated
+stow -vt ~ task
+stow -vt ~ studyflash_cardfiles
 echo "Configurations are in place"
 echo "check PRIME render offload; PCI-Express Runtime D3 (RTD3) Power Management; Prime synchronization"
 xmonad --recompile

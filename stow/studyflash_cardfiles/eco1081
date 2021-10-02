@@ -1,0 +1,289 @@
+{
+  "cards": [
+    {
+      "text": "Boire, manger et se proteger du froid sont des besoins secondaires (v/f)?",
+      "solution": "f",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Aspirons nous a plus que la survie (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Se divertir, s'instruire, voyager sont des besoins secondaires (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "La seule facon de combler un besoin est de __ un __ ou un __ (marquer la phrase complete).",
+      "solution": "consommer un bien ou un service",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Comment produit on des biens et services: en utilisant des ___ de ___. (ecrire la phrase complete).",
+      "solution": "ressources de production",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Quelles sont les trois ressources de production vu? ressources ____, ressources ____ et le ____ (ecrire les 3 mots manquants).",
+      "solution": "naturelles humaines capital",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Avec des ressources limites, in ne peut que produire des quantitees limitees de biens et services. On ne peut donc pas ___ assez pour combler tous les ____ de tout le ___. (ecrire les 3 mots manquants).",
+      "solution": "produire besoins monde",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Face aux problemes des ressources limites, nous devons faire des choix (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Economie de ____, economie ____ et economie ____ sont une facon de gerer le probleme economique. (ecrire les 3 mots manquants).",
+      "solution": "marche planifiee mixte",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Les gens ne sont pas soumis a des arbitrages (v/f)? ",
+      "solution": "f",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Le cout d'un bien est ce a quoi il faut renoncer pour l'obtenir (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Les gens rationnels raisonnement a la marge (cout additionnel vs benefice additionnel) (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Dans un raisonnement a la marge, les couts irrecuperables sont toujours comptes (v/f)?",
+      "solution": "f",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Les gens ne reagissent pas au incitifs (v/f)?",
+      "solution": "f",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Principe essentiel aux politiques publiques : les gens reagissent aux incitifs (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Les echanges ameliorent le bien-etre de tous. Ils permettent aussi la specialisation. (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Bonne facon d'organiser l'activite economique en general... les ___ (ecrire le mots manquant).",
+      "solution": "marches",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Est-il vrai que l'economie de marche est souvent tres efficiace (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Les prix sont des ___ pour les agents dans une economie de marche. (ecrire le mots manquant).",
+      "solution": "signaux",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "le gouvernement ameliore parfois les solutions de marche ? defaillance du marche -> allocations des ressources inefficace ; et externalite (v/f)",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "le niveau de vie d'un pays depend de sa capacite a ____ des ___ et ____. (ecrire les 3 mots manquants).",
+      "solution": "produire biens services",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Que ce passe t-il pour les prix si le gourvenement emet trop de monnaie. 1)augmentation des prix, 2)diminution des prix.",
+      "solution": "1",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "A court terme, la societe fait face a un arbitrage entre l'_____ et le _____. (ecrire les 2 mots manquants).",
+      "solution": "inflation chomage",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "l'inflation et le chomage se poitent de facon simultanee en general (v/f)?",
+      "solution": "f",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "En stimulant la croissance economique, on combat le ____ et on aggrave l'____. (ecrire les 2 mots manquants).",
+      "solution": "chomage inflation",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "En ralentissant la croissanc economique, on combat l'____ et on aggrave le ____. (ecrire les 2 mots manquants).",
+      "solution": "inflation chomage",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "La ____ exprime les intentions d'achat d'un bien a differents prix par tous les acheteurs, durant une periode donnee (ecire le mot manquant).",
+      "solution": "demande",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Loi de la demande: relation ____ entre prix et quantite. (ecrire le mot manquant).",
+      "solution": "inverse",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Le bareme de la demande est un tableau contenant les quantites versus differents prix (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "La demande d'un bien est donc plusieurs prix et chacune des quantites qui correspond a chacun des prix. (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Loi de la demande : Lorsque le prix augmente, la quantite augmente et vice versa (v/f)?",
+      "solution": "f",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Une hausse du prix d'un bien fait diminuer la demande du bien (v/f)?",
+      "solution": "f",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Une hausse du prix d'un bien fait diminuer la quantite demandee du bien (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Des facteurs autres que le prix vont faire diminuer (ou augmenter) la demande d'un bien ou service. (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Une augmentation de la colonne quantite dans un bareme de la demande, equivaut a une augmentation de la demande (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    }
+  ],
+  "config": {
+    "standartTextEditor": "vim",
+    "shuffle": true,
+    "correcttest": "# It is defined here when a card counts as mastered and will \n# not be asked again. \n# (reset statistics to study cards again with: 'studyflash reset FILENAME')\n\n# Syntax: A python boolean is defined\n# You can use 'and' and 'or' to combine statements (see example 2)\n\n# Parameters you can use:\n# card.timesCorrect: How many times your answer was correct\n# card.timesIncorrect: How many times your answer was incorrect\n# card.timesPlayed: How many times you answered the question\n# card.streak: Your current streak on how many times you're answer was correct.\n\n# Example 1: \n# card.streak > 2\n# Explanation: Card needs to be guessed correctly more than 3 times in a row:\n# for it to not appear anymore and be marked as mastered\n\n# Example 2 ():\n# card.timesCorrect > card.timesIncorrect and card.timesCorrect > 2\n# Explanation: You need to have guessed the card correctly more times than you guessed it incorrectly\n# and the card has to be answered correctly more than 2 times for it to not appear again.\n\n# Example 3: \n# False\n# Explanation: Never sort a card out. Every card will be asked everytime \n# even if you answered the question correctly 100x times. \n\n# Current configuration: You need to have a streak of more or equal to 2\n# and need to have answered the question correctly at least 3 times:\ncard.timesCorrect > 2 and card.streak >= 2"
+  }
+}

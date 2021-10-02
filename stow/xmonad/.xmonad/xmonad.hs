@@ -103,6 +103,9 @@ myTerminal = "alacritty"
 myBrowser :: String
 myBrowser = "google-chrome"
 
+myLogout :: String
+myLogout = "clearine"
+
 terminalMultiplexer :: String
 terminalMultiplexer = myTerminal ++ " -e bash -c 'tmux attach || tmux'"
 
@@ -144,7 +147,7 @@ myKeys conf@(XConfig {XMonad.modMask = modm}) = M.fromList $
     , ((modm                , xK_p      ), spawn programsMenu)
 -- Keyboard layiout stwitch 
     , ((modm .|. shiftMask
-             .|. controlMas , xK_space   ), spawn "$HOME/.bin/layout_switch.sh")
+             .|. controlMask , xK_space   ), spawn myLogout)--"$HOME/.bin/layout_switch.sh")
 -- Function keys related to Sound, Brightness are defined as such :
     -- volume keys /// xf86.
     , ((0, xF86XK_AudioMute), spawn "amixer set Master toggle")

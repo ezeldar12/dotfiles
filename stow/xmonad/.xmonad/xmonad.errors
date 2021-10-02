@@ -1,7 +1,0 @@
-
-xmonad.hs:147:18: error:
-    * Variable not in scope: controlMas :: KeyMask
-    * Perhaps you meant `controlMask' (imported from XMonad)
-    |
-147 |              .|. controlMas , xK_space   ), spawn "$HOME/.bin/layout_switch.sh")
-    |                  ^^^^^^^^^^
