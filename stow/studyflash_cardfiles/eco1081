@@ -279,6 +279,534 @@
       "timesIncorrect": 0,
       "timesPlayed": 0,
       "streak": 0
+    },
+    {
+      "text": "Augmentation du gout des consommateurs -> augmentation de la demande et vice versa (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Augmentation du revenu -> augmentation de la demande et vice versa (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "L'arrivee d'un produit subsititut -> augmentation de la demande (v/f)?",
+      "solution": "f",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Baisse du prix d'un substitut -> baisse de la demande et vice versa (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Baisse du prix d'un complement -> augmentation de la demande et vice versa (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Augmentation du nbr de consommateurs -> augmentation de la demande et vice versa (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Une anticipation de l'augmentation du prix -> baisse de la demande et vice versa (v/f)?",
+      "solution": "f",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Equation de la demande deplacement vers la droite symbolise une augmentation de la demande (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Equation de la demande deplacement vers la gauche symbolise une diminution de la demande (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "L'___ exprime les intentions de vente d'un bien a differents prix par tous les vendeurs, durant une periode donnee. (ecrire le mot manquant).",
+      "solution": "offre",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Loi de l'offre : relation ___ entre Prix et Quantite. (ecrire le mot manquant). ",
+      "solution": "directe",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Une hausse du prix d'un bien fait augmenter l'offre du bien. (v/f)?",
+      "solution": "f",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Une hausse du prix d'un bien fait augmenter la quantite offerte du bien. (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "augmentation du couts de production -> diminution de l'offre et vice versa (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Nouvelle technologie -> diminution de l'offre (v/f)?",
+      "solution": "f",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Augmentation du nombre d'entreprises -> augmentation de l'offre et vice versa (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Anticipation d'une augmentation de prix -> diminution de l'offre et vice versa (v/f)?",
+      "solution": "f",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Les prix changent en fonction des variations de l'offre et de la demande (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "L'offre et la demande fonctionne sans intervention (laisez-faire) (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Les gens reagissent aux incitatifs, la loi de la demande ne s'applique pas toujours avec la meme intensite. (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "L'elasticite mesure la sensibilite d'une variable au changement dans une autre variable. (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "L'elasticite est une mesure de variation relative (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "L'elasticite-prix de la demande : mesure de la sensibilite de la qte demandee d'un bien aux var. du prix de ce bien (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "(delta(Q)/Qini)/(delta(P)/Pini) correspond a quoi? 1)Ep 2)ER 3)RT 4)Exy 5)Ep en un point",
+      "solution": "1",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Lorsque Ep = -0.25 cela signifie l'une des deux choses suivante : 1)Une hausse du prix de 1% provoque une ___ des qte de 0.25% et vice versa. (ecrire le mot manquant)",
+      "solution": "diminution",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Pour Ep, le numerateur correspond t-il a la variation de la qte proportionnel a la quantite initiale (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Pour Ep, le denominateur correspond t-il a la variation de la qte proportionnel au prix initial (v/f)?",
+      "solution": "f",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Ep correspond au ratio de l'importance de la variation qte vs l'importance variation prix (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Ep = 1, implique un 1) un prix elastique 2) un prix elastique unitaire (choix)",
+      "solution": "2",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Pour Ep inelastique, la qte varie plus que le prix (v/f)?",
+      "solution": "f",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Pour Ep inelastique, l'importance variation qte est moindre que l'importance variation prix (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Un Ep se trouvant dans ce domaine de solution restraint : 0<|Ep|<1 est dit ____ (ecrire le mot manquant).",
+      "solution": "inelastique",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Ep (methode du point milieu) correspond a (delta(Q)/Qmoy)/(delta(P)/Pmoy). (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Ep en un point correspond a (dP/dQ)*(P/Q) (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Ep = 0 implique parfaitement elastique (v/f)?",
+      "solution": "f",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "|Ep| >> 1 implique parfaitement elastique (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Ep de la demande est generalement 1) positive 2) negative (choix). ",
+      "solution": "2",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Est il vrai que Ep ne change pas a tous les points de la courbe, notion non ponctuelle (v/f)?",
+      "solution": "f",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Ep de la demande nous renseigne sur l'effet de la variation du prix quant aux recettes de ventes (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "|Ep| > 1 implique elastique (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Facteur influencant l'Ep, presence de substituts (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Facteur influencant l'Ep, bien necessaire vs bien superflu (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Facteur influencant l'Ep, la precision du marche (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Facteur influencant l'Ep, proportion du budget consacree au bien (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Facteur influencant l'Ep, temps: court terme vs long terme (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Equation de la recettes totals RT= _*_ (ecrire les deux variables maquantes).",
+      "solution": "P Q",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Zone elastique : Diminution prix = petite perte car on vend moins cher & grand gain car on vend bcp plus (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Zone inelastique : Augmentation prix = grand gain car on vend plus cher & petite perte car on vend moins (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Zone elastique : Augmentation prix = petite perte car on vend moin cher & grand gain car on vend bcp plus (v/f)?",
+      "solution": "f",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Zone inelastique : Diminution prix = grand gain car on vend plus cher & petite perte car on vend moins (v/f)?",
+      "solution": "f",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "L'elasticite croisee de la demande : mesure la sensibilite de la variation de la quantite demandee d'un bien aux variations du prix d'un autre bien (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Exp = (delta(Qx)/Qx)/(delta(Py)/Py) (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Exy : Bien substituts Exy _ 0 (ecrire le bon signe parmis > < =)",
+      "solution": ">",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Exy : Biens complementaires Exy _ 0 (ecrire le bon signe parmis > < =)",
+      "solution": "<",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Exy : Biens independants Exy _ 0 (ecrire le bon signe  parmis > < =)",
+      "solution": "=",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Elasticite revenu de la demande : mesure de la sensibilite de la quantite demandee d'un bien aux variations du revenu des consommateurs (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "ER = (delta(Q)/Q)/(delta(R)/R) (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "ER : bien normal (necessaire) 0 =< ER =< 1 (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "ER : bien normal (luxe) ER > 1 (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "ER : bien inferieur ER < 0 (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "L'elasticite-prix de l'offre : mesure de la sensibilite de la quantite offerte d'un bien aux variations du prix de ce bien (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "L'equation de Ep demande et Ep offre sont differentes (v/f)?",
+      "solution": "f",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "La capacite d'une entreprise a produire plus ou moins en fonction des variations de prix, fait reference a Ep de l'offre (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Ep offre = 2 : Une hausse du prix de 1% provoque une augmentation des quantites de 2% (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Ep offre = 2 : Une baisse du prix de 1% provoque une diminution des quantites de 2% (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
+    },
+    {
+      "text": "Les cas limites de la classifications de Ep offre et Ep demande sont les memes (v/f)?",
+      "solution": "v",
+      "timesCorrect": 0,
+      "timesIncorrect": 0,
+      "timesPlayed": 0,
+      "streak": 0
     }
   ],
   "config": {
